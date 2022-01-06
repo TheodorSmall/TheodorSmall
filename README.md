@@ -1,4 +1,10 @@
-### Hi there 👋
+### TheodorSmall
+
+I live in Germany and I like to code in my free time.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheodorSmall)](https://github.com/ryo-ma/github-profile-trophy)
+
+See https://elidragon.com/.
 
 <!--
 **TheodorSmall/TheodorSmall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
